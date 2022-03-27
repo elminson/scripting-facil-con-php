@@ -1,9 +1,11 @@
-<div style="font-style: italic; size: 16px; text-align: center;" markdown="0">
+<div class="text-center">
 
-## DEDICATORIA
+# Dedicatoria
+
 <Br><Br><Br>
+
 #### *A mi esposa* <Br><Br>
-#### *Mis hijos: Emil, Ethan, Enzo y Emmi* <Br>
+#### *Mis hijos: Emil, Ethan, Enzo y Emmi* <br><br>
 #### *Mis hermanos: Jose y Jenny*<br><br>
 #### *Mis padres: Elio Y Kilcia*<br><br>
 #### *Mi Familia Los Baez(Lo bai)*<br><br>
