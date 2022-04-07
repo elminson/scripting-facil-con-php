@@ -5,7 +5,7 @@
     }
     .justify {
         text-align: justify;
-        font-size: 18px;
+        font-size: 14px;
 
     }
     .text-center {

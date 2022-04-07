@@ -42,6 +42,7 @@ Las variables nos permiten almacenar información temporalmente. Por ejemplo, po
 ```php
 $miPrimeraVariable = "Hola Mundo";
 ```
+Mas adelante hablaremos mas de Variables
 
 ### Un mecanismo para tomar de decisiones
 <p>
