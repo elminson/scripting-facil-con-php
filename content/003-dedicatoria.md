@@ -4,8 +4,8 @@
 
 <Br><Br><Br>
 
-#### *A mi esposa* <Br><Br>
-#### *Mis hijos: Emil, Ethan, Enzo y Emmi* <br><br>
+#### *A mi esposa Marjorie Janice (Babe)* <Br><Br>
+#### *Mis hijos: Emil, Ethan, Enzo, Emmi y Aidan* <br><br>
 #### *Mis hermanos: Jose y Jenny*<br><br>
 #### *Mis padres: Elio Y Kilcia*<br><br>
 #### *Mi Familia Los Baez(Lo bai)*<br><br>
